@@ -1,4 +1,4 @@
-# 8dd48fbd74 — not an actual name! See #1
+# 8dd48fbd74 — not an actual name! See [#1](https://github.com/8dd48fbd74/8dd48fbd74/issues/1)
 
 ## Idea
 
