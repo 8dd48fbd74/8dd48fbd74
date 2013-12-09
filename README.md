@@ -1,4 +1,4 @@
-# 8dd48fbd74 — it is not an actual name, you know!
+# 8dd48fbd74 — not an actual name! See #1
 
 ## Idea
 
